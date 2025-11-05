@@ -1,0 +1,14 @@
+/* Hide scrollbar for reviews */
+#reviewContainer::-webkit-scrollbar {
+  display: none;
+}
+
+/* Smooth banner animation */
+#bannerContainer {
+  transition: transform 0.8s ease-in-out;
+}
+
+/* Active menu underline */
+.menu.text-blue-500 {
+  border-bottom: 2px solid #3b82f6;
+}

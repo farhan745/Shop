@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Rahim",
+    "comment": "Excellent product quality and fast delivery!",
+    "rating": 5,
+    "date": "2025-11-01"
+  },
+  {
+    "name": "Karim",
+    "comment": "Very satisfied with the customer service.",
+    "rating": 4,
+    "date": "2025-11-03"
+  },
+  {
+    "name": "Sumaiya",
+    "comment": "Packaging was neat and product matched description.",
+    "rating": 5,
+    "date": "2025-11-05"
+  }
+]
